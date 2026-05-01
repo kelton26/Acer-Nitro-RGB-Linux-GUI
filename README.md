@@ -3,6 +3,7 @@ A simple Python GUI application to control **RGB keyboard lighting** on Acer Pre
 
 ## 🙌 Credits
 This project is built on top of the excellent work by:
+
 Jafar Akhondali
 🔗 https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module
 
