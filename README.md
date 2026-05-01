@@ -32,7 +32,7 @@ Follow the setup instructions in that repository to install and load the module 
 - Python 3.8+
 - GTK (PyGObject)
 
-⚠️ Disclaimer
-This application interacts with low-level system components.
-Use at your own risk.
-Not all Acer devices are supported.
+## ⚠️ Disclaimer
+- This application interacts with low-level system components.
+- Use at your own risk.
+- Not all Acer devices are supported.
