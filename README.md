@@ -1,11 +1,11 @@
 # 🎮 Unoficial Acer Nitro RGB Control (Linux GUI)
 A simple Python GUI application to control **RGB keyboard lighting** on Acer Predator/Nitro laptops running Linux.
 
-🙌 Credits
+## 🙌 Credits
 This project is built on top of the excellent work by:
-
 Jafar Akhondali
 🔗 https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module
+
 
 All low-level hardware functionality is powered by this module.
 
